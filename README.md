@@ -1,4 +1,9 @@
-- 👋 Hi, I’m @GentilleauF
+ 👋 Hello, I’m @GentilleauF 
+ 📫 How to reach me : gentilleauf@gmail.com
+
+ Welcome to my Github
+
+   
 
 <!---
 - 👀 I’m interested in ...
